@@ -62,7 +62,6 @@ public class GreetingsController {
 		public void setConvidados(List<Convidado> convidados) {
 			this.convidados = convidados;
 		}
-
               
     }
     
